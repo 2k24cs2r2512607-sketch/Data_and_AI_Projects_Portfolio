@@ -28,11 +28,11 @@ This project explores IPL match data to identify patterns in team performance, t
 
 ## 📁 Repository Structure
 data-analysis-portfolio
-│
-├── IPL-Data-Analysis
-│ ├── ipl_analysis.ipynb
-│ └── dataset.csv
-│
+\n
+├── IPL-Data-Analysis\n
+│ ├── ipl_analysis.ipynb\n
+│ └── dataset.csv\n
+│\n
 └── README.md
 
 
