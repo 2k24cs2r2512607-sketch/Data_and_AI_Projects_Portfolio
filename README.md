@@ -42,7 +42,7 @@ A CLI-based application to manage student records with added analytics and basic
 ## 📁 Repository Structure
 
 data-analysis-portfolio
-├── IPL-Data-Analysis
+├── IPL-Data-Analysis<br>
 │   ├── ipl_analysis.ipynb
 │   └── dataset.csv
 │
