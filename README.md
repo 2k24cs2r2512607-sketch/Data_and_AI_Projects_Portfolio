@@ -41,15 +41,15 @@ A CLI-based application to manage student records with added analytics and basic
 
 ## 📁 Repository Structure
 
-data-analysis-portfolio
+data-analysis-portfolio<br>
 ├── IPL-Data-Analysis<br>
-│   ├── ipl_analysis.ipynb
-│   └── dataset.csv
-│
-├── Student-Management-System
-│   ├── main.py
-│   └── StudentData.json
-│
+│   ├── ipl_analysis.ipynb<br>
+│   └── dataset.csv<br>
+│<br>
+├── Student-Management-System<br>
+│   ├── main.py<br>
+│   └── StudentData.json<br>
+│<br>
 └── README.md
 
 ---
