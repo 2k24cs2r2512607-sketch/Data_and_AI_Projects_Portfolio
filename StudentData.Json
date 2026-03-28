@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bill Broad",
+        "roll": 76,
+        "marks": 88
+    },
+    {
+        "name": "Bob Bist",
+        "roll": 23,
+        "marks": 72
+    },
+    {
+        "name": "River Ivor",
+        "roll": 13,
+        "marks": 60
+    },
+    {
+        "name": "Mavi Gate",
+        "roll": 24,
+        "marks": 76
+    },
+    {
+        "name": "Jofra Archer",
+        "roll": 3,
+        "marks": 22
+    },
+    {
+        "name": "Oxford Gill",
+        "roll": 23,
+        "marks": 24
+    },
+    {
+        "name": "French Deck",
+        "roll": 99,
+        "marks": 76
+    },
+    {
+        "name": "Bob Markes",
+        "roll": 45,
+        "marks": 23
+    }
+]
